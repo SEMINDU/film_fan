@@ -1,10 +1,10 @@
 
 # Film Fan
 
-Flutter Mobile Application bult with the simple fanctionality
-to allow user to fetch and view different movie informaion
+Flutter Mobile Application built with the simple fanctionality
+to allow user to fetch and view different movie informaion on Android and ios Mobile devices.
 
-Film Fan Fuctionality 
+Film Fan Functionality 
 
 FF-1
 
@@ -49,7 +49,7 @@ As a customer I want to be able to add a movie to ‘My Favourites’
 
 ## Authors
 
-- [@Erick Semind](https://www.github.com/SEMINDU)
+- [@Erick Semindu](https://www.github.com/SEMINDU)
 
 
 ## Deployment
@@ -68,4 +68,26 @@ NB: Make sure you are connected to internet to access all functionality.
 
 
 
+
+
+## Features
+
+- Now Playing
+- Movie Details 
+- Rating Movie
+- Liking(Saving to Favourites)
+- Unliking (Deleting from Favourites)
+- Similar Movies
+- Liked(SavedFavourites Movies)
+
+
+
+## Demo
+
+
+![FilmFan Demo](https://github.com/SEMINDU/film_fan/blob/main/AppScreenshots/Film%20Fan%20App.gif?raw=true)
+
+## Screenshots
+
+![Film Fan Screenshots](https://github.com/SEMINDU/film_fan/blob/main/AppScreenshots/app%20Screenshots%20(1).png?raw=true)
 
