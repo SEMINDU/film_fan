@@ -91,3 +91,13 @@ NB: Make sure you are connected to internet to access all functionality.
 
 ![Film Fan Screenshots](https://github.com/SEMINDU/film_fan/blob/main/AppScreenshots/app%20Screenshots%20(1).png?raw=true)
 
+
+## Installation
+
+You can download the APK on 
+
+[FilmFan APK](https://drive.google.com/file/d/1aA6Ymt8iDzp9UP7FWOIHV27UWNQh00kb/view?usp=sharing)
+
+#### i)  Allow installation from file Manager
+#### ii) Install the application by tapping on APK
+#### iii) Start the App
